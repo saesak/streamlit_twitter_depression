@@ -9,3 +9,7 @@ streamlit_app.py contains streamlit GUI code as well as the preprocessing and pr
 tokenizer.pickle is the tokenizer used to tokenize incoming user inputs for use in the model. 
 future_updates.py is a file used to document future updates I have incoming for this streamlit app. 
 requirements.txt is a virtual environment file that contains my dependencies. 
+
+Removed from requirements.txt
+pywinpty==1.1.3
+pywin32==301
